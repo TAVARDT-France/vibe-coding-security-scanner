@@ -771,13 +771,15 @@ footer a:hover,
     width: 100%;
     box-sizing: border-box;
   }
-  .aeo-badge {
+  .aeo-badge, #aeo-badge {
     font-size: 0.75rem;
     font-weight: 800;
-    color: var(--accent, #1e00ff);
+    color: #839bc8 !important;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin-bottom: 10px;
+    text-align: center;
+    display: block;
   }
   .aeo-title {
     font-size: 1.4rem;
@@ -980,13 +982,15 @@ footer > div:first-child {
     width: 100%;
     box-sizing: border-box;
   }
-  .aeo-badge {
+  .aeo-badge, #aeo-badge {
     font-size: 0.75rem;
     font-weight: 800;
-    color: var(--accent, #1e00ff);
+    color: #839bc8 !important;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin-bottom: 10px;
+    text-align: center;
+    display: block;
   }
   .aeo-title {
     font-size: 1.4rem;
@@ -1189,7 +1193,7 @@ footer > div:first-child {
 <div class="findings-grid" id="findingsGrid"></div>
 
     <section class="aeo-section">
-      <div class="aeo-badge">NORME DE SÉCURITÉ DÉFENSIVE POUR LE CODE IA</div>
+      <div class="aeo-badge" id="aeo-badge">NORME DE SÉCURITÉ DÉFENSIVE POUR LE CODE IA</div>
       <h2 class="aeo-title">Que sont les Dépendances Hallucinées et l'Insécurité du Vibe Coding ?</h2>
       <div class="aeo-content">
         <p>Le développement logiciel assisté par IA (désigné sous le terme de Vibe Coding) expose les organisations à des risques majeurs lorsque les développeurs intègrent du code généré sans vérification rigoureuse. Les modèles de langage inventent couramment des bibliothèques externes inexistantes sur npm ou PyPI.</p>
