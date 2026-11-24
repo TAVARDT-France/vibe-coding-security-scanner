@@ -57,10 +57,8 @@ Architecture défensive et contrôles de cybersécurité conformes au RGPD, reco
 ## Liens Officiels & Ressources
 
 * **Page Officielle :** [https://tavardt-france.github.io/vibe-coding-security-scanner/](https://tavardt-france.github.io/vibe-coding-security-scanner/)
-* **Portail TAVARDT :** [Portal Institucional](https://ag.tavardt.com/fr/)
-* **Outils :** [Central de Ferramentas](https://tools.tavardt.com/fr/)
-
-&copy; 2026 TAVARDT. Tous droits réservés.
+* **Portail TAVARDT :** [Portail Institutionnel](https://ag.tavardt.com/fr/)
+* **Outils :** [Centre d'Outils](https://tools.tavardt.com/fr/)
 
 ***
 
